@@ -1,0 +1,11 @@
+{
+  "name": "my-primitives-styled",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dielduarte/my-primitives-styled.git",
+  "author": "Diel Duarte <magdiel.kesller@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@stitches/react": "^0.0.2"
+  }
+}
